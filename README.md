@@ -8,3 +8,6 @@ To run:
 streamlit run app.py
 ``
 
+To test, see the following Streamlit app:
+
+https://ssp-with-dead-ends.streamlit.app/
