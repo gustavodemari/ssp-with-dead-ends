@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "sspde"
+version = "0.1.0"
+description = ""
+authors = ["Gustavo De Mari Pereira <guhdemari@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "^2.1.1"
+matplotlib = "^3.9.2"
+seaborn = "^0.13.2"
+streamlit = "^1.39.0"
+tqdm = "^4.66.5"
+flake8 = "^7.1.1"
+gymnasium = "^0.29.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
